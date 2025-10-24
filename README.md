@@ -34,3 +34,14 @@ Estimar o valor de aluguel de um imóvel com base em atributos físicos e locali
 ---
 
 ## Exemplo de saída
+
+
+Gráfico:
+- Linha vermelha = previsão ideal (perfeita)  
+- Pontos = valores reais x previstos pelo modelo
+
+---
+
+## 💡 Conceito básico
+O modelo aprende padrões nos dados históricos (área, quartos, cidade etc.) e tenta prever o valor de aluguel mais provável para novas combinações dessas variáveis.
+
