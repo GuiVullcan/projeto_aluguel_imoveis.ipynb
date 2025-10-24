@@ -42,6 +42,6 @@ Gráfico:
 
 ---
 
-## 💡 Conceito básico
+## Conceito básico
 O modelo aprende padrões nos dados históricos (área, quartos, cidade etc.) e tenta prever o valor de aluguel mais provável para novas combinações dessas variáveis.
 
